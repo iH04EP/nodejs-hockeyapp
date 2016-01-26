@@ -1,0 +1,35 @@
+{
+  "author": "H04EP",
+  "name": "nodejs-hockeyapp",
+  "keywords": [
+    "hockeyapp",
+    "hockeyappapi",
+    "nodejs-hockeyapp"
+  ],
+  "description": "NodeJS wrapper to the HockeyApp APIs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iH04EP/nodejs-hockeyapp",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iH04EP/nodejs-hockeyapp.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8.24"
+  },
+  "bugs": {
+    "url": "https://github.com/iH04EP/nodejs-hockeyapp/issues"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "restler" : "3.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "GPL-3.0"
+}

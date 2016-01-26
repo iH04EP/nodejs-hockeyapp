@@ -1,0 +1,14 @@
+# Copy this file to required for tests "options.json".
+# Set your credintals
+# Remove comments
+# DO NOT change last three this params (bundleId, ipaPath, dsymPath)!
+{
+  "timeout": 150000,
+  "login": "your_hockeyapp_account@email.com",
+  "pass": "your_hockeyapp_password",
+  "token": "your_hockeyapp_allow_all_token",
+
+  "bundleId": "com.app.test",
+  "ipaPath": "../testenv/com.app.test.apk",
+  "dsymPath": "../testenv/mapping.txt"
+}

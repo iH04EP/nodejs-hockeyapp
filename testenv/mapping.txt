@@ -1,0 +1,2 @@
+com.app.test.MyActivity -> com.app.test.MyActivity:
+    void onCreate(android.os.Bundle) -> onCreate
